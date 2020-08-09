@@ -6,6 +6,7 @@
 UMyObject::UMyObject()
 {
 	MyFloat = 0;
+	MyFloat2 = 0;
 }
 
 void UMyObject::MyFuntion()

@@ -22,6 +22,9 @@ public:
 	UPROPERTY(BlueprintReadWrite)
 	float MyFloat;
 
+	UPROPERTY(BlueprintReadWrite)
+	float MyFloat2;
+
 	UFUNCTION(BlueprintCallable)
 	void MyFuntion();
 };
