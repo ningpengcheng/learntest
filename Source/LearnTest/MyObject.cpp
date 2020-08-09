@@ -11,5 +11,5 @@ UMyObject::UMyObject()
 
 void UMyObject::MyFuntion()
 {
-
+	UE_LOG(LogTemp, Warning, TEXT("call my function"));
 }
